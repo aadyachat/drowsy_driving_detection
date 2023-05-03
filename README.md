@@ -3,7 +3,7 @@ Drowsy Driving Detection with Machine Learning
 
 ## All Project Information is in the poster and in attached demo video
 ### Dataset Used
-Kaggle Drowsy Driving Dataset: https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset
+[Kaggle Drowsy Driving Dataset](https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset)
 
 ### Poster
 [Drowsy Driving Detection Poster.pdf](https://github.com/aadyachat/drowsy_driving_detection/files/11289458/Drowsy.Driving.Detection.Poster.pdf)
